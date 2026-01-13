@@ -101,7 +101,7 @@ To run this project, you need to have:
   </a>
   &nbsp;
   <a href="https://github.com/umar986/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MuzammilBaloch--22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-umar986-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/umar_tariq23/" target="_blank">
