@@ -92,19 +92,19 @@ To run this project, you need to have:
 ## 🧑‍💻 The Developer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer%20Name-Muzammil%20Ahmed-9370DB?style=for-the-badge&logo=probot&logoColor=white" alt="Developer Name Badge">
+  <img src="https://img.shields.io/badge/Developer%20Name-Umar%20Tariq-9370DB?style=for-the-badge&logo=probot&logoColor=white" alt="Developer Name Badge">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muzammil-ahmed-0902612a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/umar-tariq-327a55269/" target="_blank
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
-  <a href="https://github.com/MuzammilBaloch-22" target="_blank">
+  <a href="https://github.com/umar986/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-MuzammilBaloch--22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/muzammil_baloch_22/" target="_blank">
+  <a href="https://www.instagram.com/umar_tariq23/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
