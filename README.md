@@ -56,7 +56,7 @@ To run this project, you need to have:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/MuzammilBaloch-22/](https://github.com/MuzammilBaloch-22/)[Your-Repo-Name].git
+    git clone [https://github.com/umar986/](https://github.com/umar986/)[Your-Repo-Name].git
     cd [Your-Repo-Name]
     ```
 
